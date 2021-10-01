@@ -1,0 +1,11 @@
+93*13
+
+df1 = df1.replace('?', np.nan)
+df1.info()
+df1.isnull().sum()
+df1 = df1.dropna()
+df1.shape
+heart.columns
+df1.dropna(axis = 1)
+
+df1 = df1.replace('?', np.nan)

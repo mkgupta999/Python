@@ -1,0 +1,10 @@
+Query-01:
+Data Normalities is depends on P Values
+If it is smaller than 0.05 then data is normal, is it true?
+Please explain
+
+Query-02:
+"MEAN" are equal > Null Hypothesis
+"MEAN" are NOT equal > Alternate Hypothesis
+Please Explain...
+
